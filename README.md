@@ -9,6 +9,10 @@
  - HTML & CSS 
  - TypeScript
  - ReactNative ( Expo )
- - GCP ( Goole Maps Platform )
- - ぐるなびAPI
- - ホットペッパーAPI
+ - GCP
+     - Goole Maps Platform
+ - API
+     - ぐるなびAPI
+     - ホットペッパーAPI
+## その他
+Google playにて配信しております
